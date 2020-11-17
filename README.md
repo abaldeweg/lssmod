@@ -4,11 +4,11 @@ Some enhancements for the UI.
 
 ## Features
 
-- Reorders Missions
-- Installs Push Notifications
+- Reorder Missions
+- Install Notifications
 
 ## Getting Started
 
-Open the url and install the script.
+Open the URL and install the script.
 
-https://github.com/abaldeweg/lssmod/raw/main/main.user.js
+<https://github.com/abaldeweg/lssmod/raw/main/main.user.js>
