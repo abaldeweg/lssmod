@@ -6,6 +6,7 @@ Some enhancements for the UI.
 
 - Reorder Missions
 - Install Notifications
+- Move alerts to the bottom
 
 ## Getting Started
 
