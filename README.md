@@ -7,9 +7,11 @@ Some enhancements for the UI.
 - Reorder Missions
 - Install Notifications
 - Move alerts to the bottom
+- Fix the list of requested vehicles
 
 ## Getting Started
 
 Open the URL and install the script.
 
 <https://github.com/abaldeweg/lssmod/raw/main/main.user.js>
+<https://github.com/abaldeweg/lssmod/raw/main/lightbox.user.js>
