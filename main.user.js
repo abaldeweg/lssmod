@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name LSSMod
+// @name LSSMod Main
 // @version 0.1.0
 // @description Some enhancements for the UI.
 // @author André Baldeweg
