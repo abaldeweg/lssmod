@@ -1,5 +1,7 @@
 # LSSMod
 
+Some enhancements for the UI.
+
 ## Features
 
 - Reorders Missions
