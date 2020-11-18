@@ -71,8 +71,4 @@
 			notify(e.caption, e.fms_text, e.id);
 		}
   };
-
-  // Alerts
-  document.querySelector('#important_messages_success').style.top = 'auto';
-  document.querySelector('#important_messages_success').style.bottom = '-20px';
 })();
