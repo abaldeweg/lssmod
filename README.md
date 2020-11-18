@@ -13,7 +13,7 @@ Some enhancements for the UI.
 
 Open the URL and install the script.
 
-<https://github.com/abaldeweg/lssmod/raw/main/main.user.js>
+<https://github.com/abaldeweg/lssmod/raw/main/reorder-missions.user.js>
 <https://github.com/abaldeweg/lssmod/raw/main/notifications.user.js>
 <https://github.com/abaldeweg/lssmod/raw/main/alerts.user.js>
 <https://github.com/abaldeweg/lssmod/raw/main/requested-vehicles.user.js>
